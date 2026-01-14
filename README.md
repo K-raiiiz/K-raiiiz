@@ -1,3 +1,4 @@
+
 # 👋 Hi, I'm Kethan
 
 ### 🎓 BCA Student | 💻 Aspiring Software Developer
@@ -5,11 +6,11 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Bachelor of Computer Applications (BCA) student  
-- 💡 Passionate about **Software Development**  
+- 🎓 I am a **Bachelor of Computer Applications (BCA)** student  
+- 💡 Strong interest in **Software Development**  
 - 🌱 Beginner, actively learning and improving every day  
-- 🧠 Focused on **fundamentals, logic, and clean code**  
-- 🚀 Turning ideas into working projects  
+- 🧠 Focused on understanding **fundamentals, logic, and clean code**  
+- 🚀 Passionate about turning ideas into working applications  
 
 ---
 
@@ -21,7 +22,7 @@
 
 ## 💻 Tech Stack
 ### 🧠 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
@@ -44,33 +45,23 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
-<table>
-<tr>
-<td>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=K-raiiiz&show_icons=true&count_private=true&theme=dark)
-</td>
-<td>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-raiiiz&layout=compact&theme=dark)
-</td>
-<td>
-![Streak](https://nirzak-streak-stats.vercel.app/?user=K-raiiiz&theme=dark&hide_border=false)
-</td>
-</tr>
-</table>
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=K-raiiiz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=K-raiiiz&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=K-raiiiz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=K-raiiiz&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=K-raiiiz&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
 ## 📌 Current Focus
-- Strengthening **programming fundamentals**  
-- Building **small projects** to apply concepts  
-- Improving **problem-solving skills**  
-- Exploring **full-stack development basics**  
+- Strengthening **programming fundamentals**
+- Building **small projects** to apply concepts
+- Improving **problem-solving skills**
+- Exploring **full-stack development basics**
 
 ---
 
@@ -81,3 +72,4 @@ To grow as a **skilled software developer** by learning consistently, building r
 
 ## ✨ Personal Belief
 > *“Strong fundamentals create great developers.”*
+now all is displaying so what was the problem
