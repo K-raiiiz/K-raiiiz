@@ -44,18 +44,15 @@
 
 ---
 
-## 📊 GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=K-raiiiz&show_icons=true&count_private=true)
-
----
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=K-raiiiz)
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=K-raiiiz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=K-raiiiz&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=K-raiiiz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=K-raiiiz)
+![](https://github-profile-trophy.vercel.app/?username=K-raiiiz&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
