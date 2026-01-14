@@ -72,4 +72,4 @@ To grow as a **skilled software developer** by learning consistently, building r
 
 ## ✨ Personal Belief
 > *“Strong fundamentals create great developers.”*
-now all is displaying so what was the problem
+
