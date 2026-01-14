@@ -21,7 +21,7 @@
 
 ## 💻 Tech Stack
 ### 🧠 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
@@ -45,18 +45,15 @@
 ---
 
 ## 📊 GitHub Statistics
-## 📊 GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=K-raiiiz&show_icons=true&count_private=true)
 
 ---
 
 ## 🔥 GitHub Streak
-## 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=K-raiiiz)
 
 ---
 
-## 🏆 GitHub Trophies
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=K-raiiiz)
 
