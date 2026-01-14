@@ -1,4 +1,4 @@
-# 👋 Hi, I'm YOUR_NAME
+# 👋 Hi, I'm Kethan
 
 ### 🎓 BCA Student | 💻 Aspiring Software Developer
 
@@ -45,17 +45,20 @@
 ---
 
 ## 📊 GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=K-raiiiz&show_icons=true&theme=radical)
+## 📊 GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=K-raiiiz&show_icons=true&count_private=true)
 
 ---
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=K-raiiiz&theme=radical)
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=K-raiiiz)
 
 ---
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=K-raiiiz&theme=radical&no-frame=true)
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=K-raiiiz)
 
 ---
 
