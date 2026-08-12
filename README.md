@@ -1,12 +1,12 @@
 
 # 👋 Hi, I'm Kethan
 
-### 🎓 BCA Student | 💻 Aspiring Software Developer
+### 🎓 MCA Student | 💻 Aspiring Software Developer
 
 ---
 
 ## 🚀 About Me
-- 🎓 I am a **Bachelor of Computer Applications (BCA)** student  
+- 🎓 I am a **Master of Computer Applications (MCA)** student  
 - 💡 Strong interest in **Software Development**  
 - 🌱 Beginner, actively learning and improving every day  
 - 🧠 Focused on understanding **fundamentals, logic, and clean code**  
